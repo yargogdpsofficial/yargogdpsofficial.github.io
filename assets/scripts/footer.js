@@ -17,7 +17,7 @@ class Footer {
         const fcolumn1header = document.createElement('h3');
         fcolumn1header.textContent = 'Команда';
         fcolumn1.appendChild(fcolumn1header);
-        this.addFooterLink(fcolumn1, './about.html', 'О нас');
+        this.addFooterLink(fcolumn1, '/', 'О нас');
         this.addFooterLink(fcolumn1, 'https://github.com/yargogdps/yargogdps.github.io/', 'GitHub');
         const fcolumn2 = document.createElement('div');
         fcolumn2.className = 'footer-column';
@@ -28,6 +28,7 @@ class Footer {
         this.addFooterLink(fcolumn2, './updates.html', 'Обновления');
         this.addFooterLink(fcolumn2, 'https://discord.gg/8ETWhDsSKH', 'Дискорд');
         this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m', 'Скачать');
+        this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m/music', 'Музыка');
         const copyright = document.createElement('div');
         fbody.appendChild(copyright);
         const copyrighth3 = document.createElement('h3');
