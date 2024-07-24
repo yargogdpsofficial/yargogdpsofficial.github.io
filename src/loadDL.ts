@@ -1,0 +1,1 @@
+const dl = new Demonlist();
