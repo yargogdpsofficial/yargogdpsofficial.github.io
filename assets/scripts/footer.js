@@ -17,8 +17,8 @@ class Footer {
         const fcolumn1header = document.createElement('h3');
         fcolumn1header.textContent = 'Команда';
         fcolumn1.appendChild(fcolumn1header);
-        this.addFooterLink(fcolumn1, '#', 'О нас');
-        this.addFooterLink(fcolumn1, '#', 'GitHub');
+        this.addFooterLink(fcolumn1, './about.html', 'О нас');
+        this.addFooterLink(fcolumn1, 'https://github.com/yargogdps/yargogdps.github.io/', 'GitHub');
         const fcolumn2 = document.createElement('div');
         fcolumn2.className = 'footer-column';
         fcolumns.appendChild(fcolumn2);
