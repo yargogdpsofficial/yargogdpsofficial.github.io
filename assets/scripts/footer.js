@@ -25,7 +25,7 @@ class Footer {
         const fcolumn2header = document.createElement('h3');
         fcolumn2header.textContent = 'Приватный сервер';
         fcolumn2.appendChild(fcolumn2header);
-        this.addFooterLink(fcolumn2, './updates.html', 'Обновления');
+        this.addFooterLink(fcolumn2, './news.html', 'Обновления');
         this.addFooterLink(fcolumn2, 'https://discord.gg/8ETWhDsSKH', 'Дискорд');
         this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m', 'Скачать');
         this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m/music', 'Музыка');
