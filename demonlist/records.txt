@@ -5,4 +5,4 @@ showcase;156;https://youtu.be/ZoAHnPaZDF0
 showcase;248;https://youtu.be/GvKFXj0QStM
 showcase;183;https://youtu.be/wWECk2qlli8
 sy3rena;292;https://youtu.be/ge_pm5SaRfo
-sy3rena;248https://youtu.be/zLc72ox6HKc
+sy3rena;248;https://youtu.be/zLc72ox6HKc
