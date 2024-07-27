@@ -1,0 +1,1 @@
+const adms = new Admins();
