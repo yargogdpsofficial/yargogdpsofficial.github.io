@@ -537,6 +537,18 @@ footer {
     text-align: left;
 }
 
+#mvul li a {
+    color: #cccccc;
+    text-decoration: none;
+    transition: .3s;
+}
+
+#mvul li a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    transition: .3s;
+}
+
 @media(max-width: 767px) {
     .hamburger {
         display: block;
