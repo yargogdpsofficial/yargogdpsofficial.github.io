@@ -11,6 +11,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 class DLLIB {
     constructor() {
         this.dli = 0;
+        this.rli = 0;
         this.MVLVLNAME = document.getElementById('dl-mw-lvlname');
         this.MV = document.getElementById('modal-window');
         this.DIG = document.getElementById('dig');
@@ -29,6 +30,7 @@ class DLLIB {
         list.appendChild(item);
         item.addEventListener('click', (e) => __awaiter(this, void 0, void 0, function* () {
             e.stopPropagation();
+            this.rli = 0;
             document.body.style.overflowY = 'hidden';
             this.MVLVLNAME.textContent = name;
             const records = yield this.loadRecords(String(id));
@@ -37,10 +39,11 @@ class DLLIB {
             this.MVUL.innerHTML = '';
             for (let i = 0; i < rlines.length; i++) {
                 const params = rlines[i].split(';');
+                this.rli++;
                 const li = document.createElement('li');
                 this.MVUL.appendChild(li);
                 const a = document.createElement('a');
-                a.textContent = params[0];
+                a.textContent = this.rli.toString() + '. ' + params[0];
                 a.href = params[2];
                 li.appendChild(a);
             }
