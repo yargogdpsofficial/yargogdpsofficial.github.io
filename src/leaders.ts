@@ -7,8 +7,6 @@ class Leaders {
         this.MV = <HTMLElement>document.getElementById('modal-window');
         this.DIG = <HTMLElement>document.getElementById('dig');
         this.MVUL = <HTMLElement>document.getElementById('mvul');
-
-        this.loadLeaders();
     }
 
     public getRandomInt(min:number, max:number):number {
@@ -75,7 +73,7 @@ class Leaders {
         }
     }
 
-    private async loadLeaders():Promise<string> {
+    public async loadLeaders():Promise<string> {
         return new Promise((resolve, reject) => {
             const xhr:XMLHttpRequest = new XMLHttpRequest();
             xhr.open('GET', './demonlist/leaders.txt?' + this.getRandomInt(0, 999), true);
@@ -91,6 +89,8 @@ class Leaders {
                         const params:ReadonlyArray<string> = lines[i].split(';');
                         this.addPlayer(params[0], params[1]);
                     }
+
+                    resolve('1');
                 } else {
                     console.error('Ошибка при выполнении запроса: ', xhr.statusText);
                     reject(xhr.statusText);
@@ -165,3 +165,25 @@ class Leaders {
 }
 
 const l:Leaders = new Leaders();
+leaders();
+async function leaders() {
+    await l.loadLeaders();
+
+    const search:HTMLInputElement = <HTMLInputElement>document.getElementById('searchLeaders');
+    const listItems:any = document.querySelectorAll('.leaders-item');
+        
+    search.addEventListener('input', (e) => {
+        const filter = search.value.toLowerCase();
+        
+        for (let i = 0; i < listItems.length; i++) {
+            const item = listItems[i];
+            const text = item.textContent || item.innerText;
+        
+            if (text.toLowerCase().indexOf(filter) > -1) {
+                item.classList.remove('hidden');
+            } else {
+                item.classList.add('hidden');
+            }
+        }
+    });
+}
