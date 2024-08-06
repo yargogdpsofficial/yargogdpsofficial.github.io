@@ -12,6 +12,30 @@ class Footer {
         const fcolumns:HTMLElement = document.createElement('div');
         fcolumns.className = 'footer-columns';
         fbody.appendChild(fcolumns);
+
+        const fcolumn2:HTMLElement = document.createElement('div');
+        fcolumn2.className = 'footer-column';
+        fcolumns.appendChild(fcolumn2);
+        
+        const fcolumn2header:HTMLElement = document.createElement('h3');
+        fcolumn2header.textContent = 'Приватный сервер';
+        fcolumn2.appendChild(fcolumn2header);
+        
+        this.addFooterLink(fcolumn2, './leaders.html', 'Топ игроков');
+        this.addFooterLink(fcolumn2, './news.html', 'Новости');
+        this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m', 'Скачать');
+
+        const fcolumn3:HTMLElement = document.createElement('div');
+        fcolumn3.className = 'footer-column';
+        fcolumns.appendChild(fcolumn3);
+        
+        const fcolumn3header:HTMLElement = document.createElement('h3');
+        fcolumn3header.textContent = 'Соц. Сети';
+        fcolumn3.appendChild(fcolumn3header);
+        
+        this.addFooterLink(fcolumn3, 'https://discord.gg/8ETWhDsSKH', 'Дискорд');
+        this.addFooterLink(fcolumn3, 'https://t.me/YarGoYT', 'Телеграмм');
+        this.addFooterLink(fcolumn3, 'https://www.youtube.com/@YarGo_', 'Ютуб');
         
         const fcolumn1:HTMLElement = document.createElement('div');
         fcolumn1.className = 'footer-column';
@@ -23,18 +47,6 @@ class Footer {
         
         this.addFooterLink(fcolumn1, './about.html', 'О нас');
         this.addFooterLink(fcolumn1, 'https://github.com/yargogdps/yargogdps.github.io/', 'GitHub');
-        
-        const fcolumn2:HTMLElement = document.createElement('div');
-        fcolumn2.className = 'footer-column';
-        fcolumns.appendChild(fcolumn2);
-        
-        const fcolumn2header:HTMLElement = document.createElement('h3');
-        fcolumn2header.textContent = 'Приватный сервер';
-        fcolumn2.appendChild(fcolumn2header);
-        
-        this.addFooterLink(fcolumn2, './news.html', 'Новости');
-        this.addFooterLink(fcolumn2, 'https://discord.gg/8ETWhDsSKH', 'Дискорд');
-        this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m', 'Скачать');
         
         const copyright:HTMLElement = document.createElement('div');
         fbody.appendChild(copyright);
