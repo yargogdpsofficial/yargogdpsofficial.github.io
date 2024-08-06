@@ -3,16 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YarGo | Demonlist</title>
+    <title>YarGo | Home</title>
     <link rel="stylesheet" href="./assets/css/main.css?6">
     <link rel="icon" href="./assets/img/logo/favicon.ico">
 </head>
 <body>
     <header id="header"></header>
     <main>
-        <ul class="dl" id="dl"></ul>
+        <div class="leaders-container">
+            <ul class="leaders-list" id="leaders-list">
+                <div class="search-input"><input type="text" placeholder="Поиск" id="searchLeaders"></div>
+            </ul>
+        </div>
     </main>
-    <footer id="footer"></footer>
+    <footer id="footer" style="margin-top: 150px;height: 400px;"></footer>
     <div class="dl-modal-window-container" id="modal-window">
         <div class="dl-modal-window">
             <h2 id="dl-mw-lvlname"></h2>
@@ -22,10 +26,10 @@
     <div class="dig" id="dig"></div>
     <script src="./assets/scripts/header.js"></script>
     <script src="./assets/scripts/menu.js"></script>
-    <script src="./assets/scripts/closeModalWindow.js"></script>
-    <script src="./assets/scripts/dl.js?1"></script>
-    <script src="./assets/scripts/loadDL.js?1"></script>
     <script src="./assets/scripts/footer.js?1"></script>
     <script src="./assets/scripts/headerBorder.js"></script>
+    <script src="./assets/scripts/leaders.js"></script>
+    <script src="./assets/scripts/searchPlayers.js"></script>
+    <script src="./assets/scripts/closeModalWindow.js"></script>
 </body>
 </html>
