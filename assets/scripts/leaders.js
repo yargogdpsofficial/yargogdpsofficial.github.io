@@ -18,7 +18,6 @@ class Leaders {
         this.MV = document.getElementById('modal-window');
         this.DIG = document.getElementById('dig');
         this.MVUL = document.getElementById('mvul');
-        this.loadLeaders();
     }
     getRandomInt(min, max) {
         min = Math.ceil(min);
@@ -87,6 +86,7 @@ class Leaders {
                             const params = lines[i].split(';');
                             this.addPlayer(params[0], params[1]);
                         }
+                        resolve('1');
                     }
                     else {
                         console.error('Ошибка при выполнении запроса: ', xhr.statusText);
@@ -152,3 +152,24 @@ class Leaders {
     }
 }
 const l = new Leaders();
+leaders();
+function leaders() {
+    return __awaiter(this, void 0, void 0, function* () {
+        yield l.loadLeaders();
+        const search = document.getElementById('searchLeaders');
+        const listItems = document.querySelectorAll('.leaders-item');
+        search.addEventListener('input', (e) => {
+            const filter = search.value.toLowerCase();
+            for (let i = 0; i < listItems.length; i++) {
+                const item = listItems[i];
+                const text = item.textContent || item.innerText;
+                if (text.toLowerCase().indexOf(filter) > -1) {
+                    item.classList.remove('hidden');
+                }
+                else {
+                    item.classList.add('hidden');
+                }
+            }
+        });
+    });
+}
