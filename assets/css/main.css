@@ -603,6 +603,78 @@ footer {
     transition: .3s;
 }
 
+.start-roulette {
+    background-color: #0e0e0e;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 120px;
+}
+
+.start-roulette p {
+    color: #cbcbcb;
+}
+
+.start-roulette-btn {
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #7049ff;
+    display: block;
+    width: 60px;
+    text-align: center;
+    margin-top: 40px;
+    transition: .3s;
+}
+
+.start-roulette-btn:hover {
+    background-color: #5a3bca;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.roulette {
+    max-width: 900px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.roulette-item {
+    background-color: #0e0e0e;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.roulette-item h2 {
+    font-size: 23px;
+    text-decoration: underline;
+}
+
+.roulette-item p {
+    color: #cbcbcb;
+    font-size: 18px;
+}
+
+.next-lvl {
+    background-color: #7049ff;
+    padding: 10px;
+    border-radius: 7px;
+    text-align: center;
+    width: 160px;
+    align-items: center;
+    transition: .3s;
+}
+
+.next-lvl:hover {
+    background-color: #5a3bca;
+    cursor: pointer;
+    transition: .3s;
+}
+
 @media(max-width: 767px) {
     .hamburger {
         display: block;
@@ -755,6 +827,14 @@ footer {
     .adms-item img {
         width: 75px;
         height: 75px;
+    }
+
+    .roulette-item {
+        display: block;
+    }
+
+    .next-lvl {
+        margin-top: 40px;
     }
 }
 
