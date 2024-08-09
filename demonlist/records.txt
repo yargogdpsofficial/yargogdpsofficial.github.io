@@ -25,3 +25,6 @@ Eiriley;248;https://youtu.be/vCKQGqgczws?si=QejkUHBb-AQuV_0Y
 pumpk1n;183;https://www.youtube.com/watch?v=gt6XJ0hE9Zs
 pumpk1n;248;https://www.youtube.com/watch?v=gt6XJ0hE9Zs
 pumpk1n;361;https://www.youtube.com/watch?v=gt6XJ0hE9Zs
+FAF;183;https://www.youtube.com/watch?v=zajNx3lWCeM
+FAF;248;https://www.youtube.com/watch?v=M6KBHlEr2Yg
+KaiZz;183;https://youtu.be/fre-svcV01E?si=rqscd5y3GJwLEtHi
