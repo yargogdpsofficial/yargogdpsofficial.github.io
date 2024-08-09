@@ -18,6 +18,7 @@ class Footer {
         fcolumn2header.textContent = 'Приватный сервер';
         fcolumn2.appendChild(fcolumn2header);
         this.addFooterLink(fcolumn2, './leaders.html', 'Топ игроков');
+        this.addFooterLink(fcolumn2, './roulette.html', 'Рулетка уровней');
         this.addFooterLink(fcolumn2, './news.html', 'Новости');
         this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m', 'Скачать');
         const fcolumn3 = document.createElement('div');
