@@ -35,16 +35,18 @@ class Roulette {
         h2.textContent = '#' + this.i + ': ' + level[0];
         liText.appendChild(h2);
         const p = document.createElement('p');
-        p.textContent = 'By ' + level[1] + ' (ID: ' + level[2] + ')';
+        p.textContent = 'By ' + level[1] + ' (ID: ' + level[2].replace(/ /g, '') + ')';
         liText.appendChild(p);
-        const nextLvl = document.createElement('div');
-        nextLvl.className = 'next-lvl';
-        nextLvl.textContent = 'Следующий уровень';
-        li.appendChild(nextLvl);
-        nextLvl.addEventListener('click', () => {
-            nextLvl.style.display = 'none';
-            this.addLevel();
-        });
+        if (this.i < 100) {
+            const nextLvl = document.createElement('div');
+            nextLvl.className = 'next-lvl';
+            nextLvl.textContent = 'Следующий уровень';
+            li.appendChild(nextLvl);
+            nextLvl.addEventListener('click', () => {
+                nextLvl.style.display = 'none';
+                this.addLevel();
+            });
+        }
     }
     getList() {
         return new Promise((resolve, reject) => {
