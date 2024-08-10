@@ -10,6 +10,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 class Roulette {
     constructor() {
+        this.usedIndexes = new Set(); // Множество для хранения использованных индексов
         this.list = '';
         this.i = 0;
         const startBtn = document.getElementById('start-roulette');
@@ -18,12 +19,23 @@ class Roulette {
         startBtn.addEventListener('click', () => __awaiter(this, void 0, void 0, function* () {
             startMenu.style.display = 'none';
             this.list = yield this.getList();
+            this.usedIndexes = new Set(); // Инициализация множества использованных индексов
             this.addLevel();
         }));
     }
     addLevel() {
         const list = this.list.split('\n');
-        const level = list[this.getRandomInt(0, list.length - 1)].split(';');
+        // Проверка на наличие доступных уровней
+        if (this.usedIndexes.size >= list.length) {
+            console.log("Все уровни уже использованы!");
+            return;
+        }
+        let index;
+        do {
+            index = this.getRandomInt(0, list.length - 1);
+        } while (this.usedIndexes.has(index)); // Проверяем, использовался ли индекс
+        this.usedIndexes.add(index); // Добавляем индекс в использованные индексы
+        const level = list[index].split(';');
         this.i++;
         const li = document.createElement('li');
         li.className = 'roulette-item';
@@ -37,7 +49,7 @@ class Roulette {
         const p = document.createElement('p');
         p.textContent = 'By ' + level[1] + ' (ID: ' + level[2].replace(/ /g, '') + ')';
         liText.appendChild(p);
-        if (this.i < 100) {
+        if (this.i < 100 && this.usedIndexes.size < list.length) {
             const nextLvl = document.createElement('div');
             nextLvl.className = 'next-lvl';
             nextLvl.textContent = 'Следующий уровень';
@@ -58,6 +70,7 @@ class Roulette {
                 }
                 else {
                     console.error('Ошибка при выполнении запроса: ', xhr.statusText);
+                    reject(xhr.statusText);
                 }
             };
             xhr.send();
