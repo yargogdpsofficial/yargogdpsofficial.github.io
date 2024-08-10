@@ -51,7 +51,6 @@ fair;SIGMAteam;555
 cyclocyc;wither1cyrrilic;232
 dora dura 2;wither1cyrrilic;105
 fire book;wither1cyrrilic;392
-Wars I;EvorYT;538
 Da no deco;MaxiTaxiSigma;528
 hirgo;gimlagi7;526
 read fire;41zalyt;523
