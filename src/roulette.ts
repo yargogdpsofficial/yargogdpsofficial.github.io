@@ -33,15 +33,17 @@ class Roulette {
         p.textContent = 'By ' + level[1] + ' (ID: ' + level[2].replace(/ /g, '') + ')';
         liText.appendChild(p);
 
-        const nextLvl:HTMLElement = document.createElement('div');
-        nextLvl.className = 'next-lvl';
-        nextLvl.textContent = 'Следующий уровень';
-        li.appendChild(nextLvl);
+        if(this.i < 100) {
+            const nextLvl:HTMLElement = document.createElement('div');
+            nextLvl.className = 'next-lvl';
+            nextLvl.textContent = 'Следующий уровень';
+            li.appendChild(nextLvl);
 
-        nextLvl.addEventListener('click', () => {
-            nextLvl.style.display = 'none';
-            this.addLevel();
-        });
+            nextLvl.addEventListener('click', () => {
+                nextLvl.style.display = 'none';
+                this.addLevel();
+            });
+        }
     }
 
     private getList():Promise<string> {
