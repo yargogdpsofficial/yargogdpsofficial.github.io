@@ -10,7 +10,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 class Roulette {
     constructor() {
-        this.usedIndexes = new Set(); // Множество для хранения использованных индексов
+        this.usedIndexes = new Set();
         this.list = '';
         this.i = 0;
         const startBtn = document.getElementById('start-roulette');
@@ -19,13 +19,12 @@ class Roulette {
         startBtn.addEventListener('click', () => __awaiter(this, void 0, void 0, function* () {
             startMenu.style.display = 'none';
             this.list = yield this.getList();
-            this.usedIndexes = new Set(); // Инициализация множества использованных индексов
+            this.usedIndexes = new Set();
             this.addLevel();
         }));
     }
     addLevel() {
         const list = this.list.split('\n');
-        // Проверка на наличие доступных уровней
         if (this.usedIndexes.size >= list.length) {
             console.log("Все уровни уже использованы!");
             return;
@@ -33,8 +32,8 @@ class Roulette {
         let index;
         do {
             index = this.getRandomInt(0, list.length - 1);
-        } while (this.usedIndexes.has(index)); // Проверяем, использовался ли индекс
-        this.usedIndexes.add(index); // Добавляем индекс в использованные индексы
+        } while (this.usedIndexes.has(index));
+        this.usedIndexes.add(index);
         const level = list[index].split(';');
         this.i++;
         const li = document.createElement('li');
@@ -66,7 +65,14 @@ class Roulette {
             xhr.open('GET', './demonlist/roulette.txt?' + this.getRandomInt(0, 999), true);
             xhr.onload = () => {
                 if (xhr.status >= 200 && xhr.status < 300) {
-                    resolve(xhr.responseText);
+                    let r = '';
+                    const lines = xhr.responseText.split('\n');
+                    for (let i = 0; i < lines.length; i++) {
+                        if (!lines[i])
+                            continue;
+                        r += lines[i] + '\n';
+                    }
+                    resolve(r);
                 }
                 else {
                     console.error('Ошибка при выполнении запроса: ', xhr.statusText);
