@@ -6,4 +6,4 @@ KaiZz;mod;
 Faf;null;
 pumpk1n;null;
 Aleksmeow;null;
-IceGameGD;null;
+IceGameGD;mod;
