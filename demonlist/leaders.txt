@@ -1,5 +1,5 @@
 AnanasGMD;null;
-yefool;null;
+yefool;mod;
 Sharix;mod;
 sy3rena;null;
 KaiZz;mod;
