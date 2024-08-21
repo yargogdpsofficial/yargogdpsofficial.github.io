@@ -40,3 +40,5 @@ Sigma;248;https://youtu.be/Re0-iLD56LI?si=-IWPWxei-09MTWhM
 Faf;292;https://www.youtube.com/watch?v=Qnay2-aMEDQ
 Faf;78;https://www.youtube.com/watch?v=EgitQ0TEuCg
 Sharix;292;https://youtu.be/TfB_b8pGHkU?si=4fh-bxq-_Ip9NVH3
+Sharix;82;
+Sharix;343;
