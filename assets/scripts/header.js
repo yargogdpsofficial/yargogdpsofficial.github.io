@@ -2,7 +2,7 @@
 class Header {
     constructor() {
         this.linksUrl = [
-            { linkName: 'Главная', url: '/yargogdpsofficial' },
+            { linkName: 'Главная', url: '/' },
             { linkName: 'Новости', url: './news.html' },
             { linkName: 'Демонлист', url: './dl.html' },
         ];
@@ -17,7 +17,7 @@ class Header {
         hlogo.className = 'header-logo';
         hbody.appendChild(hlogo);
         const hlogoLink = document.createElement('a');
-        hlogoLink.href = '/yargogdpsofficial';
+        hlogoLink.href = '/';
         hlogo.appendChild(hlogoLink);
         const hlogoImg = document.createElement('img');
         hlogoImg.src = './assets/img/logo/main.png';
