@@ -3,8 +3,8 @@ class Header {
     constructor() {
         this.linksUrl = [
             { linkName: 'Главная', url: '/yargogdpsofficial' },
-            { linkName: 'Новости', url: './yargogdpsofficial/news.html' },
-            { linkName: 'Демонлист', url: './yargogdpsofficial/dl.html' },
+            { linkName: 'Новости', url: './news.html' },
+            { linkName: 'Демонлист', url: './dl.html' },
         ];
         const header = document.getElementById('header');
         const hcontainer = document.createElement('div');
