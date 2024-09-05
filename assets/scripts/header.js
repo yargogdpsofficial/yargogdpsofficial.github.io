@@ -17,7 +17,7 @@ class Header {
         hlogo.className = 'header-logo';
         hbody.appendChild(hlogo);
         const hlogoLink = document.createElement('a');
-        hlogoLink.href = '/';
+        hlogoLink.href = '/yargogdpsofficial-';
         hlogo.appendChild(hlogoLink);
         const hlogoImg = document.createElement('img');
         hlogoImg.src = './assets/img/logo/main.png';
