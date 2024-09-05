@@ -17,9 +17,9 @@ class Footer {
         const fcolumn2header = document.createElement('h3');
         fcolumn2header.textContent = 'Приватный сервер';
         fcolumn2.appendChild(fcolumn2header);
-        this.addFooterLink(fcolumn2, './yargogdpsofficial/leaders.html', 'Топ игроков');
-        this.addFooterLink(fcolumn2, './yargogdpsofficial/roulette.html', 'Рулетка уровней');
-        this.addFooterLink(fcolumn2, './yargogdpsofficial/news.html', 'Новости');
+        this.addFooterLink(fcolumn2, './leaders.html', 'Топ игроков');
+        this.addFooterLink(fcolumn2, './roulette.html', 'Рулетка уровней');
+        this.addFooterLink(fcolumn2, './news.html', 'Новости');
         this.addFooterLink(fcolumn2, 'https://gofruit.space/gdps/053m', 'Скачать');
         const fcolumn3 = document.createElement('div');
         fcolumn3.className = 'footer-column';
@@ -36,7 +36,7 @@ class Footer {
         const fcolumn1header = document.createElement('h3');
         fcolumn1header.textContent = 'Команда';
         fcolumn1.appendChild(fcolumn1header);
-        this.addFooterLink(fcolumn1, './yargogdpsofficial/about.html', 'О нас');
+        this.addFooterLink(fcolumn1, './about.html', 'О нас');
         this.addFooterLink(fcolumn1, 'https://github.com/yargogdpsofficial/yargogdpsofficial', 'GitHub');
         const copyright = document.createElement('div');
         fbody.appendChild(copyright);
