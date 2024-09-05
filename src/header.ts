@@ -76,8 +76,8 @@ class Header {
     private hnavlist:HTMLElement;
     private linksUrl:ReadonlyArray<any> = [
         { linkName: 'Главная', url: '/yargogdpsofficial/' },
-        { linkName: 'Новости', url: './news.html' },
-        { linkName: 'Демонлист', url: './dl.html' },
+        { linkName: 'Новости', url: './yargogdpsofficial/news.html' },
+        { linkName: 'Демонлист', url: './yargogdpsofficial/dl.html' },
     ];
 }
 
