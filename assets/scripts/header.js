@@ -2,7 +2,7 @@
 class Header {
     constructor() {
         this.linksUrl = [
-            { linkName: 'Главная', url: '/' },
+            { linkName: 'Главная', url: '/yargogdpsofficial-' },
             { linkName: 'Новости', url: './news.html' },
             { linkName: 'Демонлист', url: './dl.html' },
         ];
