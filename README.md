@@ -1,1 +1,1 @@
-# yargogdpsofficial.github.io/yargogdpsofficial/
+# yargogdpsofficial.github.io
