@@ -47,7 +47,7 @@ class Footer {
         fcolumn1.appendChild(fcolumn1header);
         
         this.addFooterLink(fcolumn1, './about.html', 'О нас');
-        this.addFooterLink(fcolumn1, 'https://github.com/yargogdpsofficial/', 'GitHub');
+        this.addFooterLink(fcolumn1, 'https://github.com/yargogdpsofficial/yargogdpsofficial-', 'GitHub');
         
         const copyright:HTMLElement = document.createElement('div');
         fbody.appendChild(copyright);
