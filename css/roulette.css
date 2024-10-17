@@ -1,0 +1,28 @@
+.roulette-list {
+    padding-top: 160px;
+}
+
+.start-roulette {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    border: 1px solid #d6d6d6;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+
+.start-roulette-btn {
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #9668ff;
+    color: #fff;
+    cursor: pointer;
+    font-size: 17px;
+    transition: .3s background-color;
+}
+
+.start-roulette-btn:hover {
+    background-color: #653ec1;
+}

@@ -1,0 +1,33 @@
+.team-header {
+    padding-top: 120px;
+    margin-bottom: 80px;
+}
+
+.team-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.team-item {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 60px;
+    text-align: center;
+    padding: 20px;
+    background-color: #dcdcdc;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .3s transform;
+}
+
+.team-item:hover {
+    transform: scale(102%);
+}
+
+.team-item img {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}

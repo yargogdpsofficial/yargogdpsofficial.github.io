@@ -1,1 +1,0 @@
-const news = new Announcements();
