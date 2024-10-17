@@ -99,3 +99,9 @@
     height: 200px;
     margin-right: 30px;
 }
+
+@media (max-width: 768px) {
+    .discord img {
+        display: none;
+    }
+}
