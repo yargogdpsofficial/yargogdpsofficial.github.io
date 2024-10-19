@@ -5,8 +5,8 @@ sy3rena;82;_demons;https://youtu.be/TaRbsVGIVv0
 sy3rena;343;_demons;https://youtu.be/DE0wEAlV6Tg
 KaiZz;82;_demons;https://youtu.be/kxkg-FaE6_0
 KaiZz;78;_demons;https://youtu.be/iTaSIGdfVlA
-Sharix;391;_demons;https://youtu.be/ZBzlWKrssE8
-yefool;391;_demons;https://youtu.be/3S8n0Sjx6K8
+Sharix;391;_challenges;https://youtu.be/ZBzlWKrssE8
+yefool;391;_challenges;https://youtu.be/3S8n0Sjx6K8
 yefool;343;_demons;https://youtu.be/O0mTbVUH3pg
 yefool;292;_demons;https://youtu.be/UsLctjkAQ3g?si=_zqK2eE1SfiCiPM7
 yefool;156;_demons;https://youtu.be/xv_RCuMEVHE
@@ -25,7 +25,7 @@ Sharix;248;_demons;https://youtu.be/vCKQGqgczws?si=QejkUHBb-AQuV_0Y
 pumpk1n;183;_demons;https://www.youtube.com/watch?v=gt6XJ0hE9Zs
 pumpk1n;248;_demons;https://www.youtube.com/watch?v=gt6XJ0hE9Zs
 pumpk1n;361;_demons;https://www.youtube.com/watch?v=gt6XJ0hE9Zs
-pumpk1n;391;_demons;https://www.youtube.com/watch?v=ZAm83c_Nqxw
+pumpk1n;391;_challenges;https://www.youtube.com/watch?v=ZAm83c_Nqxw
 Faf;183;_demons;https://www.youtube.com/watch?v=zajNx3lWCeM
 Faf;248;_demons;https://www.youtube.com/watch?v=M6KBHlEr2Yg
 KaiZz;183;_demons;https://youtu.be/fre-svcV01E?si=rqscd5y3GJwLEtHi
@@ -47,10 +47,10 @@ Sharix;292;_demons;https://youtu.be/TfB_b8pGHkU?si=4fh-bxq-_Ip9NVH3
 Sharix;82;_demons;https://youtu.be/e4dIluRovYA?si=2Fna1YBLO7oQzxCr
 Sharix;343;_demons;https://youtu.be/DmGOzm-dR_g?si=UCwEoRktHX3seJHt
 Aleksmeow;590;_demons;https://www.youtube.com/watch?v=-aC2ii0sBkY
-Aleksmeow;391;_demons;https://www.youtube.com/watch?v=btmDgSSpMSs
+Aleksmeow;391;_challenges;https://www.youtube.com/watch?v=btmDgSSpMSs
 Byblic;183;_demons;https://youtu.be/WyVDb9zhkl8?feature=shared
 Byblic;361;_demons;https://youtu.be/LxBTohgdVrE?si=FGokmrlN5KtsPdl1
-LIR4KGD;391;_demons;https://youtu.be/VMhLPCP7Na4?si=8stcrR3FqRua3Dkp
+LIR4KGD;391;_challenges;https://youtu.be/VMhLPCP7Na4?si=8stcrR3FqRua3Dkp
 LIR4KGD;292;_demons;https://youtu.be/kStqDTjFwDQ?si=w9aYDR6zWsFuPf-H
 LIR4KGD;156;_demons;https://youtu.be/KKP0TKUf5jQ?si=QWyvMI17FgHaxGLj
 LIR4KGD;82;_demons;https://youtu.be/vbbHTq4YJwE?si=aI1CQCBVAkFR3E5y
@@ -67,7 +67,7 @@ WaRRioRR;343;_demons;https://youtu.be/t6BdkvD3RqA
 WaRRioRR;82;_demons;https://youtu.be/MSPQGOuATe0
 WaRRioRR;156;_demons;https://youtu.be/7pjBeUwHLdc
 WaRRioRR;292;_demons;https://youtu.be/Fqja3L-ThY0
-WaRRioRR;391;_demons;https://youtu.be/2Yqe618VzKU
+WaRRioRR;391;_challenges;https://youtu.be/2Yqe618VzKU
 WaRRioRR;78;_demons;https://youtu.be/INBg2E1apmk?si=1oUpaqBcBziRgstN
 Wither1cyrrilic;183;_demons;https://youtu.be/uDfyrcsctN0?si=ZX7WUqWIAqdSxNWg
 EckToTick;82;_demons;https://youtu.be/i6VunmD4PA8?si=Ez5MDi1jXsoOqYa-
