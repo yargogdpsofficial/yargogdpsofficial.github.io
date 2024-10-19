@@ -75,3 +75,4 @@ EckToTick;343;_demons;https://youtu.be/WEpc2Hy8XDM?si=WCih9aIOThwJabYC
 EckToTick;361;_demons;https://youtu.be/DuKnOIox0zY?si=7_rjzAsoNNRrULDA
 EckToTick;78;_demons;https://youtu.be/-rRkMz3n7X8?si=0ogpwAg-N2WmTOwm
 Gimlagi2;361;_demons;https://youtu.be/txmsQwq6r6k?si=MykygFbjfaHltqfe
+EckToTick;292;_demons;https://youtu.be/-wQdb6aaAVI?si=fyZimMX_EI2pBbQt
