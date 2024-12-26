@@ -117,3 +117,5 @@ Ruslanych;343;_demons;https://youtu.be/peMlv8__VgU
 Ruslanych;292;_demons;https://youtu.be/peMlv8__VgU
 Ruslanych;1696;_demons;https://youtu.be/peMlv8__VgU
 Ruslanych;426;_platformers;https://www.youtube.com/watch?v=n9bLPnN16fQ
+Ruslanych;165;_platformers;https://www.youtube.com/watch?v=SnAyBrK4q_Q
+Ruslanych;1003;_platformers;https://youtu.be/Qa__rJAfWRY
