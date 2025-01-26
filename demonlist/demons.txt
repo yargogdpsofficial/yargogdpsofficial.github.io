@@ -13,4 +13,3 @@ Sigma Circles;Sigma;156;#;225
 BlackRainStorm;OkoPlayPC;82;#;200
 Fen;hyGoo;361;https://youtu.be/ET95mLKrjn0?si=K2O-ZgdrSzBDrDY3;175
 Tidal Wave;sont;183;https://youtu.be/wWECk2qlli8;150
-Hi;hyGoo;248;https://youtu.be/GvKFXj0QStM;125
