@@ -143,6 +143,6 @@ renmos;2117;_demons;https://youtu.be/KBlNRDfzcKM?si=8peRFxT0I1_xYCw0
 deleteduser;2146;_demons:https://www.youtube.com/watch?v=U4DOUrBIiUs
 yefool;2146;_demons;https://youtu.be/roO-j-DeKWk
 Sharix;1832;_demons;https://youtu.be/NChCK0rnLHc?si=bYaIui8aA6Kvizlg
-StayV1s;1982;_https://www.youtube.com/watch?v=R-hegBZmX-g&t=511s
-Ruslanych;1982;https://youtu.be/kBfBmr5n1-0
-Ruslanych;1723;https://youtu.be/RlEPWn2asmk
+StayV1s;1982;_platformers;https://www.youtube.com/watch?v=R-hegBZmX-g&t=511s
+Ruslanych;1982;_platformers;https://youtu.be/kBfBmr5n1-0
+Ruslanych;1723;_challenges;https://youtu.be/RlEPWn2asmk
