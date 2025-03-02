@@ -150,3 +150,6 @@ Chillik;1987;_demons;https://youtu.be/x69Oe5sg7GM?si=4h6x_duKMj3sa-KQ\
 TrautFeter2006;343;_demons;https://youtu.be/lZ1AlGbuDCI?si=fxtGtlwXDcyW1wPb
 TrautFeter2006;361;_demons;https://youtu.be/W1ICQYdsJIc?si=OH5GE2sIbo5derzB
 TrautFeter2006;82;_demons;https://youtu.be/g6B1_36c450?si=oU8Xz4ioq-3Z3iQ5
+deleteduser;361;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
+deleteduser;82;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
+deleteduser;78;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
