@@ -172,3 +172,4 @@ Netherbroad;1003;_platformers;https://youtu.be/prAgo5bY9qQ?si=VYQ6NeaR2XCPbZbB
 Sharix;1287;_demons;https://youtu.be/7Aap-2AQ74M
 Zefirfy;1722;_challenges;https://youtu.be/_5ogjqKenIw?si=ZShzNpsHERkRKvvM
 Taleesman;1287;_demons;https://youtu.be/N5Ey-WqJJe0
+DjKUST;2117;_demons;https://youtu.be/qkE6QMXnRes
