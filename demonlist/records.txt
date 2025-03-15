@@ -179,3 +179,4 @@ deleteduser;292;_demons;https://youtu.be/33sjSE8HBlA?si=zs3ykkO5yDZ50qzd
 Plmnshok;2196;_platformers;#
 Plmnshok;2261;_platformers;#
 Taleesman;1233;_demons;https://youtu.be/R2KTpMOOal8?si=5TNDLlR0PJnbEr6A
+kamenayaStatuya;165;_platformers;https://youtu.be/XYDI7KY2K1Q?si=eFx99_OMKl9C25d3
