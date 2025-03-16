@@ -3,7 +3,8 @@ free;yefool;426;#;450
 Iwannabethesigma;Sigma;165;#;400
 I wanna be the yato;Yato;1003;#;350
 How to Platformer;kamenayaStatuya;2319;#;300
-Kamera;Plmnshok;#;2261;250
-I think its hard;deleteuser;2316;#;200
-Rank SSS;Plmnshok;2196;#;150
-Platformer Lool;kamenayaStatuya;2309;#;100
+Kva Kva;Plmnshok;2335;#;250
+Kamera;Plmnshok;#;2261;200
+I think its hard;deleteuser;2316;#;150
+Rank SSS;Plmnshok;2196;#;100
+Platformer Lool;kamenayaStatuya;2309;#;50
