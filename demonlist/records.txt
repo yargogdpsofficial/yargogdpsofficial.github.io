@@ -186,3 +186,7 @@ Taleesman;1823;_demons;https://youtu.be/kVcOjo7dLT0?si=CybsIpvcaQKEJaL8
 Taleesman;912;_demons;https://youtu.be/R2KTpMOOal8?si=5TNDLlR0PJnbEr6A
 Taleesman;1818;_demons;https://youtu.be/vMvZ0F2JilY?si=Yh-XvnBG1zWT4dxK
 Taleesman;292;_demons;https://youtu.be/B4mEqhwCPTU
+Taleesman;156;_demons;https://youtu.be/B4mEqhwCPTU?si=xIDBg4d_BcN1kUHs
+Taleesman;343;_demons;https://youtu.be/B4mEqhwCPTU?si=xIDBg4d_BcN1kUHs
+Taleesman;579;_demons;https://youtu.be/B4mEqhwCPTU?si=xIDBg4d_BcN1kUHs
+Taleesman;361;_demons;https://youtu.be/B4mEqhwCPTU?si=xIDBg4d_BcN1kUHs
