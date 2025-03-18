@@ -8,14 +8,13 @@ HATE EVERYTHING;NasosaliTeam;1987;https://youtu.be/x69Oe5sg7GM?si=4h6x_duKMj3sa-
 Rose Bei Einbruch;SUNDER;1696;https://youtu.be/s3mWcvyJ0VQ?si=s6kBFFmagEr7J8dd;650
 DoraNeDura;DjKUST;1818;https://youtu.be/thtq3t-Qh1A;600
 Red Velvet;SBP;1823;https://youtu.be/Z_aoHiO7wBI;550
-Sonic Blaster;Taleesman;2327;https://youtu.be/VDp9-1s3wek
-Starfall;SBP;1832;https://youtu.be/Z_aoHiO7wBI;500
-Chrome;sy3rena;292;https://youtu.be/ge_pm5SaRfo;450
-Forbidden Kocmoc;W8no;579;https://youtu.be/0XIVuvob-N0;400
-CKA3KA;SBP;1287;https://youtu.be/P_0zO44TM_c;350
-Anxiety;IcEDCave;78;https://youtu.be/xwc533BD92U?si=v7Or_n4xGeknXsjE;300
-SkyWalker;sy3rena;343;#;250
-Lifebuoy Cemetery;NotRealPiglen7;2256;#;200
-Sigma Circles;Sigma;156;#;150
-BlackRainStorm;OkoPlayPC;82;#;100
-Fen;hyGoo;361;https://youtu.be/ET95mLKrjn0?si=K2O-ZgdrSzBDrDY3;50
+Sonic Blaster;Taleesman;2327;https://youtu.be/VDp9-1s3wek;500
+Starfall;SBP;1832;https://youtu.be/Z_aoHiO7wBI;450
+Chrome;sy3rena;292;https://youtu.be/ge_pm5SaRfo;400
+Forbidden Kocmoc;W8no;579;https://youtu.be/0XIVuvob-N0;350
+CKA3KA;SBP;1287;https://youtu.be/P_0zO44TM_c;300
+Anxiety;IcEDCave;78;https://youtu.be/xwc533BD92U?si=v7Or_n4xGeknXsjE;250
+SkyWalker;sy3rena;343;#;200
+Lifebuoy Cemetery;NotRealPiglen7;2256;#;150
+Sigma Circles;Sigma;156;#;100
+BlackRainStorm;OkoPlayPC;82;#;50
