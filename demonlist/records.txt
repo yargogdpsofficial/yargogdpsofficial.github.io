@@ -210,3 +210,9 @@ DjKUST;2461;_challenges;https://youtu.be/55EjeJYP-CE?si=J-M9V3r616C4LxZs
 DjKUST;1723;_challenges;https://youtu.be/0lTrfuecj8I?si=xRRUGqN1OiGla6PW
 netherbroad;2470;_demons;https://youtube.com/watch?v=GEguMFGPbR8
 DjKUST;2470;_demons;https://youtu.be/AYNhRSyN5Ew
+Ruslanych;2335;_platformers;https://youtube.com/live/a5hjTZab2dk
+Ruslanych;2309;_platformers;https://www.youtube.com/live/j_BWSJpjqik
+Ruslanych;2196;_platformers;https://www.youtube.com/live/j_BWSJpjqik
+Ruslanych;2316;_platformers;https://www.youtube.com/live/j_BWSJpjqik
+Ruslanych;2261;_platformers;https://www.youtube.com/live/j_BWSJpjqik
+Ruslanych;2319;_platformers;https://www.youtube.com/live/j_BWSJpjqik
