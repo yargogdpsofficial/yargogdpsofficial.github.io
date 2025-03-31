@@ -149,11 +149,10 @@ Chillik;1987;_demons;https://youtu.be/x69Oe5sg7GM?si=4h6x_duKMj3sa-KQ\
 TrautFeter2006;343;_demons;https://youtu.be/lZ1AlGbuDCI?si=fxtGtlwXDcyW1wPb
 TrautFeter2006;361;_demons;https://youtu.be/W1ICQYdsJIc?si=OH5GE2sIbo5derzB
 TrautFeter2006;82;_demons;https://youtu.be/g6B1_36c450?si=oU8Xz4ioq-3Z3iQ5
-deleteduser;361;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
-deleteduser;82;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
-deleteduser;78;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
-deleteduser;1287;_demons;https://m.youtube.com/watch?v=cM7su4feUfg
-deleteduser;156;_demons;https://m.youtube.com/watch?v=ESegQoS630Q
+netherbroad;361;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
+netherbroad;82;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
+netherbroad;78;_demons;https://m.youtube.com/watch?v=10S2vjJO2Qc
+netherbroad;1287;_demons;https://m.youtube.com/watch?v=cM7su4feUfg
 TrautFeter2006;156;_demons;https://youtu.be/lDFxco-Uf1A?si=sC6ovTUA9OMBhAf4
 TrautFeter2006;2146;_demons;https://youtu.be/VIdcx8VfUF4?si=WetBhdi5yupCm684
 Taleesman;2256;_demons;https://youtu.be/AYmKNENIADE?si=DWF2Gjqqz1WBju0H
@@ -175,8 +174,6 @@ DjKUST;2117;_demons;https://youtu.be/qkE6QMXnRes
 Sharix;2256;_demons;https://youtu.be/ZL4lBE2_20s
 Taleesman;1832;_demons;https://youtu.be/TG26wZTqnhI
 netherbroad;292;_demons;https://youtu.be/33sjSE8HBlA?si=zs3ykkO5yDZ50qzd
-Plmnshok;2196;_platformers;#
-Plmnshok;2261;_platformers;#
 kamenayaStatuya;165;_platformers;https://youtu.be/XYDI7KY2K1Q?si=eFx99_OMKl9C25d3
 netherbroad;579;_demons;https://m.youtube.com/watch?v=ECFTnJHOUVU
 netherbroad;343;_demons;https://youtu.be/A9lJuAYnEF8?si=wD-hVrxkOK6LlXTv
