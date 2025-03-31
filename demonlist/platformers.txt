@@ -1,10 +1,10 @@
-Its Really Difficult;NasosaliTeam;1982;#;500
-free;yefool;426;#;450
-Kva Kva;Plmnshok;2335;#;400
-Iwannabethesigma;Sigma;165;#;350
-I wanna be the yato;Yato;1003;#;300
-Kamera;Plmnshok;2261;#;250
-I think its hard;deleteuser;2316;#;200
-Platformer Lool;kamenayaStatuya;2309;#;150
-Rank SSS;Plmnshok;2196;#;100
-How to Platformer;kamenayaStatuya;2319;#;50
+Its Really Difficult;NasosaliTeam;1982;500
+free;yefool;426;450
+Kva Kva;Plmnshok;2335;400
+Iwannabethesigma;Sigma;165;350
+I wanna be the yato;Yato;1003;300
+Kamera;Plmnshok;2261;250
+I think its hard;deleteuser;2316;200
+Platformer Lool;kamenayaStatuya;2309;150
+Rank SSS;Plmnshok;2196;100
+How to Platformer;kamenayaStatuya;2319;50
