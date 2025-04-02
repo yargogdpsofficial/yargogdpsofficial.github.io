@@ -214,3 +214,5 @@ netherbroad;2511;_platformers;https://youtube.com/watch?v=31W4GNReB0g
 DjKUST;165;_platformers;https://youtu.be/wZyFAvyNgFM
 DjKUST;2511;_platformers;https://youtu.be/TT0rxixQsJ8
 DjKUST;2316;_platformers;https://youtu.be/nKELaeE4FtY
+Sharix;1722;_challenges;https://youtube.com/watch?v=LUkPD0v7_tc
+DjKUST;1722;_challenges;https://youtu.be/ndVOiTKFuEk
