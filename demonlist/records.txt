@@ -218,3 +218,4 @@ Sharix;1722;_challenges;https://youtube.com/watch?v=LUkPD0v7_tc
 DjKUST;1722;_challenges;https://youtu.be/ndVOiTKFuEk
 DjKUST;2396;_demons;https://youtube.com/watch?v=aV8gkl-mAoE
 Sharix;2461;_challenges;https://youtu.be/0do_RY48Uic
+DjKUST;2525;_demons;https://youtu.be/z0iMaFrUFZo
