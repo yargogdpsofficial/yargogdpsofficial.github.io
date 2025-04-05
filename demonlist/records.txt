@@ -227,3 +227,5 @@ DjKUST;1982;_platformers;https://youtu.be/KM82bjtwhYw
 netherbroad;1982;_platformers;https://youtu.be/W2x0gpin4I8
 DjKUST;2531;_demons;https://youtu.be/B-sH73ob340
 DjKUST;2535;_platformers;https://youtu.be/B-sH73ob340
+DjKUST;1003;_platformers;https://youtu.be/jGMws8kfO2E
+DjKUST;2309;_platformers;https://youtu.be/jGMws8kfO2E
