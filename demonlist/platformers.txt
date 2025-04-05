@@ -4,7 +4,7 @@ free;yefool;426;#;400
 Iwannabethesigma;Sigma;165;#;350
 I wanna be the yato;Yato;1003;#;300
 Kamera;Plmnshok;2261;#;250
-Snowy souler;netherbroad;#;200
+Snowy souler;netherbroad;2535;#;200
 I think its hard;netherbroad;2316;#;150
 Platformer Lool;kamenayaStatuya;2309;#;100
 Rank SSS;Plmnshok;2196;#;50
