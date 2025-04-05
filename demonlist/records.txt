@@ -222,4 +222,4 @@ DjKUST;2525;_demons;https://youtu.be/z0iMaFrUFZo
 yefool;2531;_demons;https://youtu.be/MIE9yvyWrC8
 DjKUST;2196;_platformers;https://youtu.be/zAnK7Ifq1s4
 DjKUST;426;_platformers;https://youtu.be/qdX-_Df_pNw
-Netherbroad;2335;_platformers;https://youtu.be/Uf_cXke34P0?si=DOFrszYsS2UZK2uS
+Netherbroad;2535;_platformers;https://youtu.be/Uf_cXke34P0?si=DOFrszYsS2UZK2uS
