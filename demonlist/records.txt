@@ -235,3 +235,4 @@ netherbroad;2564;_platformers;https://youtu.be/AJb_25wywQ0
 netherbroad;2309;_platformers;https://youtu.be/QmsJEyVSsiQ
 netherbroad;2576;_platformers;https://youtu.be/SpUQl-BGXcU
 DjKUST;2309;_platformers;https://youtu.be/DxvhDL95skw
+DjKUST;2576;_platformers;https://youtu.be/xeP6EdR53rk
