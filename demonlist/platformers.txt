@@ -8,9 +8,8 @@ Kamera;Plmnshok;2261;#;450
 IWannaBeatTheClubste;netherbroad;2564;#;400
 Snowy souler;netherbroad;2535;#;350
 I think its hard;netherbroad;2316;#;300
-Platformer
 Rank sss;Plmnshok;2196;#;250 
 Dark whitennes;netherbroad;2576;200
-Lool;kamenayaStatuya;2309;#;150
+Platformer Lool;kamenayaStatuya;2309;#;150
 How to platformer;kamenayastatuya;2319;#;100
 Z E R T A;plmnshok;2511;#;50
