@@ -233,3 +233,4 @@ netherbroad;2335;_platformers;https://youtu.be/sd5tTfyPnnM
 netherbroad;2558;_platformers;https://youtu.be/9NydE-BHkYo
 netherbroad;2564;_platformers;https://youtu.be/AJb_25wywQ0
 netherbroad;2309;_platformers;https://youtu.be/QmsJEyVSsiQ
+netherbroad;2576;_platformers;https://youtu.be/SpUQl-BGXcU
