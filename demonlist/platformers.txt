@@ -1,15 +1,14 @@
-Its Really Difficult;NasosaliTeam;1982;#;750
-Kva Kva;Plmnshok;2335;#;700
-free;yefool;426;#;650
-Iwannabethesigma;Sigma;165;#;600
-Infinity;netherbroad;2558;#;550
-I wanna be the yato;Yato;1003;#;500
-Kamera;Plmnshok;2261;#;450
-IWannaBeatTheClubste;netherbroad;2564;#;400
-Snowy souler;netherbroad;2535;#;350
-I think its hard;netherbroad;2316;#;300
-Rank sss;Plmnshok;2196;#;250 
-Dark whitennes;netherbroad;2576;#;200
-Platformer Lool;kamenayaStatuya;2309;#;150
-How to platformer;kamenayastatuya;2319;#;100
+Its Really Difficult;NasosaliTeam;1982;#;700
+Kva Kva;Plmnshok;2335;#;650
+free;yefool;426;#;600
+Iwannabethesigma;Sigma;165;#;550
+Infinity;netherbroad;2558;#;500
+I wanna be the yato;Yato;1003;#;450
+How to platformer;kamenayastatuya;2319;#;400
+Kamera;Plmnshok;2261;#;350
+Snowy souler;netherbroad;2535;#;300
+I think its hard;netherbroad;2316;#;250
+Rank sss;Plmnshok;2196;#;200
+Dark whitennes;netherbroad;2576;#;150
+Platformer Lool;kamenayaStatuya;2309;#;100
 Z E R T A;plmnshok;2511;#;50
